@@ -1,4 +1,4 @@
-This folder collects code to replicate the experiments discussed in the paper "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization" (NeurIPS 2024) by Nicola Bariletto and Nhat Ho [[link]](https://arxiv.org/abs/2401.15771).
+This folder collects code to replicate the experiments discussed in the paper "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization" (NeurIPS 2024) by Nicola Bariletto and Nhat Ho [[link](https://arxiv.org/abs/2401.15771)].
 
 
 The script "BNP_DRO_functions.py" contains the main functions needed to implement the experiments (e.g., the ones to construct the DP based criterion, the SGD algorithm, etc.). The script also contains code to import the utilities necessary to run the other scritps (see below).
